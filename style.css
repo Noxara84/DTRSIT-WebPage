@@ -1,0 +1,41 @@
+.flex-container{
+    display: flex;
+    padding: 20px;
+    width: 80%;
+    height: 600px;
+    margin: auto auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    width: 30%;
+}
+
+.imagenPrincipal{
+    width: 10%;
+}
+
+html{
+    background: #3F2A56;
+    height: 100%;
+    font-family: "rubik";
+}
+
+@font-face {
+    font-family: "rubik";
+    src: url("assets/Fuentes/Rubik/Rubik-VariableFont_wght.ttf");
+}
+
+h1{
+    font-size:40px;
+}
+
+.elemento{
+    text-align: center;
+    color: #00B7BD;
+}
+
+.espaciado{
+    margin: 10% ;
+}
