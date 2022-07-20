@@ -31,6 +31,14 @@ h1{
     font-size:40px;
 }
 
+h2{
+    font-family: "rubik";
+}
+
+p{
+    font-family: "rubik";
+}
+
 .elemento{
     text-align: center;
     color: #00B7BD;
@@ -38,4 +46,8 @@ h1{
 
 .espaciado{
     margin: 10% ;
+}
+
+.menu-principal{
+    color: #3F2A56;
 }
